@@ -6,7 +6,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dhiraj-Pawar](https://github.com/001greatdsp)
+- 👨‍💻 All of my projects are available at [https://github.com/Dhiraj-Pawar](https://github.com/Dhiraj-Pawar)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7058872764439340948](https://www.blogger.com/blog/posts/7058872764439340948)
 
