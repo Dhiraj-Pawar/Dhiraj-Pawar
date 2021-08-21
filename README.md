@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=001greatdsp&label=Profile%20views&color=0e75b6&style=flat" alt="001greatdsp" /> </p>
 
-- 🔭 I’m currently working on **Cloud Deployment Tool**
 
-- 🌱 I’m currently learning **Cloud Computing, Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/001greatdsp](https://github.com/001greatdsp)
+- 👨‍💻 All of my projects are available at [https://github.com/Dhiraj-Pawar](https://github.com/001greatdsp)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7058872764439340948](https://www.blogger.com/blog/posts/7058872764439340948)
 
-- 📫 How to reach me **001greatdsp@gmail.com**
+- 📫 How to reach me **0dhirajpawar@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/001greatdsp/About-Me](https://github.com/001greatdsp/About-Me)
 
